@@ -24,7 +24,7 @@
 4. **Deploy ← New deployment ← Web app**:
    - Execute as: **Me** · Who has access: **Anyone within Sulaiman Al Rajhi University**
    - انسخ رابط `/exec`.
-5. افتح `index.html` (في جذر هذه الحزمة) وضع الرابط مكان `PASTE_WEB_APP_EXEC_URL_HERE` في `CONFIG.WEB_APP_URL`.
+5. رابط `/exec` مثبّت مسبقًا في `index.html` (`CONFIG.WEB_APP_URL`)؛ غيّره فقط إذا أنشأت نشرًا جديدًا.
 6. ارفع محتوى هذا المجلد إلى مستودع GitHub (مثلاً `ICTSRU/jd`) ← **Settings ← Pages ← Branch main / root**.
 7. اختبر: افتح رابط صفحة GitHub ← سجّل بحساب `@sr.edu.sa` (يجب أن يفتح النموذج) ثم بحساب خارجي (يجب أن تظهر «غير مصرّح»)، وتأكد من ظهور الدخول في `AccessLog`.
 
